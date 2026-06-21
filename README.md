@@ -1,7 +1,6 @@
 📊 Bem-vindo ao meu portfólio de projetos em Power BI.
 
 Projetos
-### 💰 Dashboard Financeiro
-Desenvolvido para análise de indicadores financeiros.
+[💰 Dashboard Financeiro](./dashboard_financeiro/)
 
-📁 Pasta: [Acessar projeto](./dashboard_financeiro/)
+Desenvolvido para análise de indicadores financeiros.
