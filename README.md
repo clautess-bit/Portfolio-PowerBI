@@ -2,6 +2,6 @@
 
 ## Projetos
 
-[💰 Dashboard Financeiro](./dashboard_financeiro/)
+💰 [Dashboard Financeiro](./dashboard_financeiro/)
 
 Desenvolvido para análise de indicadores financeiros.
