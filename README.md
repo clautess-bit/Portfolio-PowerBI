@@ -51,6 +51,3 @@ Durante o desenvolvimento deste projeto, pude praticar:
 * `Dashboard_Financeiro.pbix` → Arquivo do Power BI.
 * `dashboard-financeiro.png` → Imagem do dashboard.
 * `README.md` → Documentação do projeto.
-
-
-Em transição para a área de Análise de Dados | Power BI • Python • Excel • SQL
