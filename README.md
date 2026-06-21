@@ -29,7 +29,7 @@ Além da análise dos dados, busquei aplicar conceitos de design para criar uma 
 
 ## Dashboard
 
-![Dashboard Financeiro](dashboard-financeiro.png)
+![Dashboard Financeiro](dashboard.financeiro.png)
 
 ---
 
