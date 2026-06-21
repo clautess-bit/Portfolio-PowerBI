@@ -15,7 +15,6 @@ Além da análise dos dados, busquei aplicar conceitos de design para criar uma 
 * Power BI
 * Power Query
 * Excel
-* DAX
 
 ---
 
