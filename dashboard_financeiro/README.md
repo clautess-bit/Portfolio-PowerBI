@@ -22,8 +22,6 @@ Além da análise dos dados, busquei aplicar conceitos de design para criar uma 
 
 * Receita Total
 * Despesas Totais
-* Lucro
-* Fluxo de Caixa
 * Comparativos e tendências financeiras
 
 ---
