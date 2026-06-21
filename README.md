@@ -1,4 +1,4 @@
-# 📊 Bem-vindo ao meu portfólio de projetos em Power BI.
+📊 Bem-vindo(a) ao meu portfólio de projetos em Power BI.
 
 ## Projetos
 
