@@ -46,7 +46,7 @@ Durante o desenvolvimento deste projeto, pude praticar:
 
 ## Arquivos do Projeto
 
-* `Dashboard_Financeiro.pbix` → Arquivo do Power BI.
+* `dashboard_financeiro.pbix` → Arquivo do Power BI.
 * `dashboard_financeiro.png` → Imagem do dashboard.
 * `README.md` → Documentação do projeto.
 
