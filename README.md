@@ -1,53 +1,10 @@
-# Portfolio-PowerBI
-# 📊 Dashboard Financeiro | Power BI
+📊 Portfólio Power BI
 
-## Sobre o Projeto
+Bem-vindo ao meu portfólio de projetos em Power BI.
 
-Este dashboard foi desenvolvido durante o Intensivo de Power BI + Inteligência Artificial ministrado por Letícia Smirelli.
+Projetos
+Dashboard Financeiro
 
-O objetivo do projeto é apresentar indicadores financeiros de forma clara e visual, permitindo uma análise rápida do desempenho financeiro e auxiliando na tomada de decisões.
+Projeto desenvolvido para análise de indicadores financeiros e visualização de dados.
 
-Além da análise dos dados, busquei aplicar conceitos de design para criar uma visualização intuitiva e agradável, unindo meu lado analítico e criativo.
-
----
-
-## Ferramentas Utilizadas
-
-* Power BI
-* Power Query
-* Excel
-
----
-
-## Indicadores Analisados
-
-* Receita Total
-* Despesas Totais
-* Comparativos e tendências financeiras
-
----
-
-## Dashboard
-
-![Dashboard Financeiro](dashboard.financeiro.png)
-
----
-
-## Principais Aprendizados
-
-Durante o desenvolvimento deste projeto, pude praticar:
-
-* Importação e tratamento de dados;
-* Modelagem de dados;
-* Criação de medidas utilizando DAX;
-* Construção de visualizações estratégicas;
-* Boas práticas de design para dashboards;
-* Storytelling com dados.
-
----
-
-## Arquivos do Projeto
-
-* `Dashboard_Financeiro.pbix` → Arquivo do Power BI.
-* `dashboard-financeiro.png` → Imagem do dashboard.
-* `README.md` → Documentação do projeto.
+📁 Pasta: dashboard_financeiro
